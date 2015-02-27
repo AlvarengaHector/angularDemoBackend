@@ -1,0 +1,12 @@
+com\hdev\angulardemobackend\DiscountCode_.class
+com\hdev\angulardemobackend\DiscountCode.class
+service\DiscountCodeFacadeREST.class
+service\CustomerFacadeREST.class
+com\hdev\angulardemobackend\MicroMarket.class
+com\hdev\angulardemobackend\Customer_.class
+com\hdev\angulardemobackend\NewCrossOriginResourceSharingFilter.class
+service\MicroMarketFacadeREST.class
+com\hdev\angulardemobackend\MicroMarket_.class
+com\hdev\angulardemobackend\Customer.class
+service\ApplicationConfig.class
+service\AbstractFacade.class
